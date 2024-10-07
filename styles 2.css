@@ -1,0 +1,64 @@
+body {
+   background-color: black;
+
+   height: 100vh;
+   
+   margin: 0;
+
+   background-size: cover;
+   
+   display: flex;
+   
+   justify-content: center;
+            
+   align-items: center;
+}
+
+.text{
+   font-family: 'Press Start 2P', sans-serif;
+
+   text-align: center;
+
+   display: flex;
+
+   flex-direction: column;
+
+   align-items: center;
+
+   marigin-bottom: 50px;
+
+   font-size: 60px;
+
+   color: lightgreen;
+   
+   line-height: 1.5;
+}
+
+
+.telegram{
+   font-family: 'Press Start 2P', arial;
+
+   padding: 20px 50px;
+
+   border-radius: 45px;
+
+   letter-spacing: 5px;
+
+   font-size: 90px;
+
+   font-weight: 600;
+
+   color: white;
+
+   background-color: green;
+
+   box-shadow: 0px 25px 50px green;
+
+   border: none;
+
+   outline: none;
+
+   display: grid;
+
+   place-items: center;
+}
