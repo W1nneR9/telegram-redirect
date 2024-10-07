@@ -1,0 +1,14 @@
+.by{
+   font-family: 'Press Start 2P', sans-serif;
+    
+   position: absolute;
+       top: 45px; 
+       right: 100px; 
+       left: 180px;
+
+   font-size: 30px;
+
+   color: black;
+
+   text-shadow: 0px 5px blue;
+}
